@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.bernard"},{"l":"com.mycompany.db"},{"l":"com.mycompany.interfaces"},{"l":"com.mycompany.models"},{"l":"com.mycompany.utils"},{"l":"com.mycompany.windows"}];updateSearchResults();
